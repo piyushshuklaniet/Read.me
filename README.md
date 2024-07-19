@@ -50,7 +50,8 @@ Here are some of the projects I've worked on:
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under;
+[Copyright Infringement in the Digital Age](https://blog.ipleaders.in/copyright-infringement-in-the-digital-age/#:~:text=Information%20Technology%20Act%2C%202000&text=This%20provision%20has%20been%20used,or%20possess%20pirated%20digital%20content.).
 
 ---
 
