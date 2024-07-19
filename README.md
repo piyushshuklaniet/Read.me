@@ -1,5 +1,3 @@
-Here's a template for a GitHub README file tailored to your domain and interests. You can customize it further based on your specific projects and experiences:
-
 ---
 
 # Piyush Shukla - Python Developer & ML Enthusiast
