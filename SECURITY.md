@@ -15,7 +15,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
   For report pls contact the below email for any assistance;
     Email-id = Piyushshukla100@outlook.com
 Tell them where to go, how often they can expect to get an update on a
